@@ -1,4 +1,4 @@
-Hi 👋, I'm urdadx
+hi 👋, i'm urdadx
 <p align="center">
   <samp>
     <a href="https://abdulwahab.netlify.app/">me</a> .
