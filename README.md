@@ -3,6 +3,10 @@
   <samp>
     <a href="https://urdadx.vercel.app/posts">blog</a> .
     <a href="https://twitter.com/NerdyProgramme2">twitter</a> . 
+    <a href="https://urdadx.tech">website</a> . 
+    <a href="https://cal.com/urdadx">book me</a> 
+
+
 
   </samp>
 </p>
